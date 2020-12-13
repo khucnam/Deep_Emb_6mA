@@ -1,0 +1,7 @@
+LIBRARY REQUIREMENTS
+	We will need to install some basic packages to run the programs as followed:
+		git version 2.15.1.windows.2
+		python 3.6.5
+		numpy 1.14.3
+		pandas 0.23.0
+		sklearn 0.20.2
